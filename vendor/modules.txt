@@ -367,6 +367,8 @@ github.com/docker/libnetwork/types
 # github.com/dtylman/scp v0.0.0-20181017070807-f3000a34aef4
 ## explicit
 github.com/dtylman/scp
+# github.com/felixge/httpsnoop v1.0.1
+github.com/felixge/httpsnoop
 # github.com/fsnotify/fsnotify v1.5.1
 ## explicit
 github.com/fsnotify/fsnotify
@@ -411,7 +413,7 @@ github.com/google/shlex
 # github.com/google/uuid v1.3.0
 ## explicit
 github.com/google/uuid
-# github.com/gorilla/handlers v0.0.0-20150720190736-60c7bfde3e33
+# github.com/gorilla/handlers v1.5.1
 ## explicit
 github.com/gorilla/handlers
 # github.com/gorilla/mux v1.8.0
